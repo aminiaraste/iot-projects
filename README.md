@@ -10,6 +10,7 @@ The LED must blink ON and OFF alternately, with each ON and OFF period being 0.5
 
 So the LED blinks continuously for 20 seconds, then stops — until the next time D3 is triggered.
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 assignment4:
 
 Write a program for a Wemos (ESP8266) that assumes two LEDs are connected to pins D4 and D5.
@@ -20,5 +21,3 @@ The first LED (D4) should blink with equal ON and OFF durations of 2 seconds.
 The second LED (D5) should blink in a way that it's ON for 2 seconds and then OFF for 1 second.
 
 Once pin D3 is triggered (for example, by a button press), both LEDs should stop blinking and stay OFF.
-
-اگر خواستی به صورت رسمی‌تر
