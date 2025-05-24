@@ -22,6 +22,7 @@ The second LED (D5) should blink in a way that it's ON for 2 seconds and then OF
 
 Once pin D3 is triggered (for example, by a button press), both LEDs should stop blinking and stay OFF.
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 assignment5:
 
 Write a program for Wemos D1 (ESP8266) that:
