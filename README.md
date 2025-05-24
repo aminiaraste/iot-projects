@@ -21,3 +21,11 @@ The first LED (D4) should blink with equal ON and OFF durations of 2 seconds.
 The second LED (D5) should blink in a way that it's ON for 2 seconds and then OFF for 1 second.
 
 Once pin D3 is triggered (for example, by a button press), both LEDs should stop blinking and stay OFF.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+assignment5:
+
+Write a program for Wemos D1 (ESP8266) that:
+Generates a PWM signal on pin D5
+The PWM should have:Frequency: 3kHz Duty cycle: 70%
+The PWM signal must:Turn ON for 3 seconds Then turn OFF for 3 seconds
+And continue toggling like this indefinitely
